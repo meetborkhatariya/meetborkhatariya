@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Meet Borkhatariya                                                                                                   ![Profile Views](https://komarev.com/ghpvc/?username=meetborkhatariya&color=blue)
+<h1>
+  Hi, I'm Meet Borkhatariya 
+  <img src="https://komarev.com/ghpvc/?username=meetborkhatariya&label=Profile%20views&color=blue&style=flat" align="right"/>
+</h1>
 
 
 🎓 **B.Tech Computer Science & Engineering Student**  
