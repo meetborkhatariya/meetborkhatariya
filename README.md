@@ -39,8 +39,6 @@ I am passionate about building intelligent systems using **Artificial Intelligen
 ---
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meetborkhatariya&theme=tokyonight" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meetborkhatariya&theme=tokyonight" />
