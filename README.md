@@ -1,4 +1,4 @@
-# meet
+# Meet Borkhatariya
 # 👋 Hello World! I'm Meet Borkhatariya  
 
 🎓 B.Tech CSE Student | 💻 Aspiring Software Engineer  
