@@ -2,7 +2,7 @@
 # I'm Meet Borkhatariya  
 
 🎓 B.Tech CSE Student | 💻 Aspiring Software Engineer  
-🚀 Learning DSA | MERN Stack | AI/ML  
+🚀 Learning DSA | AI/ML  
 
 ---
 
@@ -32,12 +32,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/yourid)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/yourid)
 
-## 📊 GitHub Stats
 
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetborkhatariya&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetborkhatariya&layout=compact&theme=tokyonight)
-
----
-
-⭐ *Thanks for visiting my profile!*  
+# ⭐ *Thanks for visiting my profile!*  
