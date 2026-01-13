@@ -17,20 +17,11 @@
 - Data Structures & Algorithms
 - React & Backend Development
 - Machine Learning Basics
-
----
-
-## 📫 How to Reach Me
-- 📧 Email: your_email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio: https://yourportfolio.com
-
 ---
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/yourid)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/yourid)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/meet-borkhatariya-36755030b/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/meet_borkhatariya_07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/Meet_Borkhatariya/)
 
 # ⭐ *Thanks for visiting my profile!*  
