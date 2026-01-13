@@ -1,5 +1,5 @@
-# Meet Borkhatariya
-# 👋 Hello World! I'm Meet Borkhatariya  
+# Hello World! 
+# I'm Meet Borkhatariya  
 
 🎓 B.Tech CSE Student | 💻 Aspiring Software Engineer  
 🚀 Learning DSA | MERN Stack | AI/ML  
@@ -26,10 +26,6 @@
 - 🌐 Portfolio: https://yourportfolio.com
 
 ---
-
-## ⚡ Fun Fact
-I solve DSA problems daily and love building real-world projects 😄
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
