@@ -37,8 +37,8 @@ I am passionate about building intelligent systems using **Artificial Intelligen
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/Meet_Borkhatariya/)
 
 ---
-
 ## 📊 GitHub Stats
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetborkhatariya&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meetborkhatariya&layout=compact&theme=tokyonight)
+![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetborkhatariya&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meetborkhatariya&layout=compact&theme=tokyonight&hide_border=true)
